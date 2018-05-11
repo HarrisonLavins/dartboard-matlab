@@ -26,3 +26,8 @@ The original work can be found here: https://www.mathworks.com/matlabcentral/fil
 © 2018 Harrison Lavins
 
 Licensed under the [MIT License](LICENSE).
+
+# Example Output
+
+![dartboard](dartboard_output.png)
+
