@@ -21,13 +21,15 @@ assign proper point values to each area of the board and form a board that more 
 
 The original work can be found here: https://www.mathworks.com/matlabcentral/fileexchange/47124-building-a-dart-board-on-a-cartesian-grid
 
+# Example Output
+
+<img src="dartboard_output.png" width="400">
+
 # License & Copyright
 
 © 2018 Harrison Lavins
 
 Licensed under the [MIT License](LICENSE).
 
-# Example Output
 
-![dartboard](dartboard_output.png)
 
